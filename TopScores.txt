@@ -1,0 +1,6 @@
+1st,Qasim,1070.4 
+  2nd,Qasim,1063.3 
+  3rd,Qasim,1061.3 
+ 4th,Qasim,1061.3 
+ 5th,ok :),214.8 
+                     
